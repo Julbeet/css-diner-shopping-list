@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"gr",
+				"grid-template-areas"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"se",
+				"setInterval"
+			],
+			[
+				"show",
+				"showItem"
+			],
+			[
+				"icon",
+				"iconItem"
+			],
+			[
+				"ski",
+				"skillsItem"
+			],
+			[
+				"great",
+				"greatYears"
+			],
+			[
+				"grea",
+				"greatYears"
+			],
+			[
+				"play",
+				"playSound"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"co",
+				"correctAnswer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gue",
+				"guesses"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"last",
+				"lastModified"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"menu",
+				"menuSourceBottom"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"fo",
+				"form-bg.jpg\tw:514 h:496"
+			],
+			[
+				"log",
+				"logos.png\tw:1140 h:34"
+			],
+			[
+				"map",
+				"map.png\tw:1154 h:528"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"anima",
+				"animation-fill-mode"
+			],
+			[
+				"animati",
+				"animation-delay"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hover_",
+				"hover_menu"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"r",
+				"right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/BeetROOT/HTML5smash2/style.css",
+		"/D/BeetROOT/HTML5smash2/index.html",
+		"/D/BeetROOT/HTML5smash1/index.html",
+		"/D/BeetROOT/HTML5smash1/HW1/index.html",
+		"/D/IT/@LP/build/css/main.css",
+		"/D/IT/@LP/src/js/main.js",
+		"/D/IT/@LP/src/index.html",
+		"/D/IT/@LP/src/style/main.scss",
+		"/C/Users/User/AppData/Local/Google/Chrome/User Data/Profile 1/Web Data",
+		"/D/IT/@LP/build/js/owl.carousel.js",
+		"/D/IT/@LP/src/style/owl.theme.green.scss",
+		"/D/IT/@LP/gulpfile.js",
+		"/D/IT/@LP/src/style/_theme.green.scss",
+		"/D/IT/@LP/src/style/_theme.default.scss",
+		"/D/IT/@LP/src/style/_lazyload.scss",
+		"/D/IT/@LP/src/style/_autoheight.scss",
+		"/D/IT/@LP/src/fonts/stylesheet.css",
+		"/D/IT/@LP/bower.json",
+		"/D/IT/@LP/package.json",
+		"/C/Users/User/Downloads/Web Junior - урок 5-20171006T065242Z-001.zip",
+		"/D/IT/parfumes/src/index.html",
+		"/D/IT/parfumes/build/js/main.js",
+		"/D/IT/parfumes/src/js/main.js",
+		"/D/IT/parfumes/src/style/main.scss",
+		"/C/Users/User/Downloads/style.css",
+		"/D/IT/parfumes/gulpfile.js",
+		"/D/IT/parfumes/build/css/main.css",
+		"/D/IT/parfumes/package.json",
+		"/D/IT/parfumes/src/template/header.html",
+		"/D/IT/parfumes/src/style/partials/owl.carousel.scss",
+		"/C/Users/User/Downloads/vcards_20170325_234643.vcf",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp64/www/cute/wp-content/themes/twentyseventeen/footer.php",
+		"/D/IT/page/src/js/partials/owl.carousel.min.js",
+		"/D/IT/page/OwlCarousel2-2.2.0/dist/assets/owl.carousel.css",
+		"/D/IT/page/src/js/partials/app.js",
+		"/D/IT/coursera/html/style.css",
+		"/D/IT/page/build/index.html",
+		"/D/IT/page/src/template/header.html",
+		"/D/IT/my_page/package.json",
+		"/D/IT/Mountains-travel/src/fonts/stylesheet.css",
+		"/D/IT/test/index.html",
+		"/D/IT/Mountains-travel/src/js/masonry.min.js",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/IT/Mountains-travel/src/fonts/style.css",
+		"/D/IT/Mountains-travel/src/template/header.html",
+		"/D/IT/Mountains-travel/build/css/main.css",
+		"/D/IT/Mountains-travel/src/template/footer.html",
+		"/D/мое/анимация/script.js",
+		"/D/мое/анимация/index.html",
+		"/D/мое/анимация/style.css",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/style.css",
+		"/D/мое/анимация/test.html",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/js/hover.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/custom.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/hover.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/style.css",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/functions.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/functions.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/js/custom.js",
+		"/C/wamp64/www/Cute_Sweets/wp-includes/js/wp-emoji-release.min.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/inc/js/customizer-scripts.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/my_script.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/js/customizer.js",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/index.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral-child/footer.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/index.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/sidebar.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/page.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/single.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/footer.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/viral/inc/template-tags.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/stained-glass/inc/customize-buttons.php",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/stained-glass/inc/css/button.css",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/stained-glass/css/editor-style.css",
+		"/C/wamp64/www/Cute_Sweets/wp-includes/css/buttons.css",
+		"/C/wamp64/www/Cute_Sweets/wp-content/themes/stained-glass/style.css",
+		"/D/IT/page/src/js/main.js",
+		"/D/IT/page/build/js/main.js",
+		"/D/IT/page/src/style/partials/app.scss",
+		"/D/мое/IT/new/index.html",
+		"/C/Users/User/.ssh/id_rsa.pub",
+		"/D/мое/IT/new/style.css",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/D/IT/CLEAR_PAGE/package.json",
+		"/D/IT/my_page/gulpfile.js",
+		"/c/users/user/appdata/local/temp/test",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Gist/Default (Windows).sublime-keymap",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/D/мое/IT/new/style.sass",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
